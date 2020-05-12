@@ -1,4 +1,4 @@
-# esp8266controler
+# esp8266controller
 Projeto para controlar as saídas IO de um esp8266 por aplicativo android via wifi.
 
 O codigo para o ESP8266 é escrito em arduino utilizando o Arduino IDE.
